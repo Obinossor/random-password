@@ -28,10 +28,10 @@ THEN the password is either displayed in an alert or written to the page
 
 ## Mock-Up
 
-link to the website:
+link to the website: https://obinossor.github.io/random-password/
 
-The following videw shows the web application's appearance and functionality:
+The following video shows the web application's appearance and functionality:
 
-![rancom password generator.](./assets/radom-password.gif)
+![rancom password generator](./assets/radom-password.gif)
 
 Author: Tarik Mazumder
