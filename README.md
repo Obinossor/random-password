@@ -32,6 +32,6 @@ link to the website: https://obinossor.github.io/random-password/
 
 The following video shows the web application's appearance and functionality:
 
-![rancom password generator](./assets/radom-password.gif)
+![random password](./assets/random-password.gif)
 
 Author: Tarik Mazumder
